@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel
   
--  With a diverse professional background spanning 10 years across various fields, I bring 5 years of specialized expertise as a seasoned Data Analyst with a proven track record in multiple industries. Currently, I hold the esteemed position of Group Head of Data Analytics within the finance sector, where I seamlessly navigate the dual role of a proficient Data Analyst and a resourceful Data Engineer.
+-  With a diverse professional background spanning 10 years across various fields, I bring 5 years of specialized expertise as a seasoned Data Analyst with a proven track record in multiple industries. Currently, I hold the esteemed position of Senior Data Analyst within the finance sector, where I seamlessly navigate the dual role of a proficient Data Analyst and a resourceful Data Engineer.
 
 - My proficiency extends to a wide array of technical skills, including advanced proficiency in Excel, Python, and SQL, adept data warehousing capabilities, and the ability to harness the potential of Power BI Tableau for insightful data visualization. My mastery of communication and stakeholder management further underscores my ability to bridge the technical and business realms, enhancing collaboration and driving data-driven decision-making.
 
